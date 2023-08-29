@@ -3,5 +3,5 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 In this repo, I have attempted to provide the solutions of the classical problems using Python programming language. 
 
-**NOTE :** \
+**NOTE :** 
 Please try these problems on your own before looking into the solutions. Only the solutions of the first 100 problems will be available publicly. After that, this repo will be made private.
